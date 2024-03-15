@@ -1,5 +1,6 @@
 ### Hi there 👋
 🚀 I am an advocate for purpose-driven people.
+
 🌱 Currently building a funding-rate arbitrage bot.
 
 <!--
