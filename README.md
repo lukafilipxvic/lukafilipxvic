@@ -1,5 +1,6 @@
 ### Hi there 👋
-🌱 I’m currently learning python, langchain and streamlit. 
+🚀 I am an advocate for purpose-driven people.
+🌱 Currently building a funding-rate arbitrage bot.
 
 <!--
 **lukafilipxvic/lukafilipxvic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
