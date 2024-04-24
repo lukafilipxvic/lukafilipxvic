@@ -1,7 +1,5 @@
 ### Hi there 👋
-🚀 I am an advocate for purpose-driven people.
-
-🌱 Currently learning Python.
+🌱 I'm currently learning Javascript and Python.
 
 <!--
 **lukafilipxvic/lukafilipxvic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
