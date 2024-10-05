@@ -1,6 +1,3 @@
-### Hi there, I'm Luka 👋
-❤️‍🔥 I'm passionate about building cool tech.
-
 🌱 I'm currently learning FastAPI and Python.
 <!--
 **lukafilipxvic/lukafilipxvic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
